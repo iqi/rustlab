@@ -1,0 +1,10 @@
+[package]
+name = "rustcli"
+version = "0.1.0"
+authors = ["wangshijin <wangshijin314@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "rustcli"
+path = "main.rs"
